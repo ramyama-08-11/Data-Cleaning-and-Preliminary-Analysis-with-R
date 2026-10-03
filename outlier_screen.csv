@@ -1,0 +1,5 @@
+"variable","lower_fence","upper_fence","flagged_n","flagged_rows"
+"bill_length_mm",25.3125,62.4125,0,""
+"bill_depth_mm",10.95,23.35,0,""
+"flipper_length_mm",155.5,247.5,0,""
+"body_mass_g",1750,6550,0,""
